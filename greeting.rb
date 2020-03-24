@@ -4,3 +4,7 @@ end  #method ends
 
 
 greeting
+greeting
+greeting
+greeting
+greeting
